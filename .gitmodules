@@ -1,0 +1,9 @@
+[submodule "pcb/kicad/includes/keyswitch-kicad-library"]
+	path = pcb/kicad/includes/keyswitch-kicad-library
+	url = https://github.com/perigoso/keyswitch-kicad-library.git
+[submodule "pcb/kicad/includes/CrumpPrints.pretty"]
+	path = pcb/kicad/includes/CrumpPrints.pretty
+	url = https://github.com/tylercrumpton/CrumpPrints.pretty.git
+[submodule "pcb/kicad/includes/Type-C.pretty"]
+	path = pcb/kicad/includes/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git
