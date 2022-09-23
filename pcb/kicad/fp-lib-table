@@ -3,4 +3,5 @@
   (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/includes/Type-C.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/includes/RP2040.pretty")(options "")(descr ""))
   (lib (name "WS2812C-2020")(type "KiCad")(uri "${KIPRJMOD}/includes/WS2812C-2020")(options "")(descr ""))
+  (lib (name "Keyswitches")(type "KiCad")(uri "${KIPRJMOD}/includes/keyswitches.pretty")(options "")(descr ""))
 )
