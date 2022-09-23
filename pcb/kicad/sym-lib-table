@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/includes/Type-C.pretty/Type-C.kicad_sym")(options "")(descr ""))
   (lib (name "WS2812C-2020")(type "KiCad")(uri "${KIPRJMOD}/includes/WS2812C-2020/WS2812C-2020.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-C")(type "Legacy")(uri "${KIPRJMOD}/includes/Type-C.pretty/Type-C.lib")(options "")(descr ""))
 )
