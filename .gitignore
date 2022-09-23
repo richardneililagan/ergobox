@@ -67,3 +67,5 @@ out/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/kicad,visualstudiocode
+
+*auto_saved_files*

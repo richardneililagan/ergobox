@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# WS2812C-2020
+#
+DEF WS2812C-2020 U 0 40 Y Y 1 L N
+F0 "U" -400 330 50 H V L BNN
+F1 "WS2812C-2020" -400 -500 50 H V L BNN
+F2 "LED_WS2812C-2020" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "Worldsemi" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "0.84 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F7 "V1.0" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S -400 -400 400 300 0 0 10 f
+X DI 3 -600 0 200 R 40 40 0 0 I 
+X DO 1 -600 -100 200 R 40 40 0 0 O 
+X GND 2 600 -300 200 L 40 40 0 0 W 
+X VDD 4 600 200 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
