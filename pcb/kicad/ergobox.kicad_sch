@@ -4469,7 +4469,7 @@
     (property "Value" "MountingHole" (id 1) (at 213.36 274.3199 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4" (id 2) (at 210.82 273.05 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 210.82 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 273.05 0)
@@ -4675,7 +4675,7 @@
     (property "Value" "RP2040" (id 1) (at 106.68 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RP2040_minimal:RP2040-QFN-56" (id 2) (at 66.04 106.68 0)
+    (property "Footprint" "RP2040:RP2040-QFN-56" (id 2) (at 66.04 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 66.04 106.68 0)
@@ -5661,7 +5661,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/80f2d6a0-2d04-463b-980a-3c1edca108b9"
-      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/3f875e20-671c-43b5-8a63-545e16b7fd63"
       (reference "H6") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
@@ -5757,7 +5757,7 @@
       (reference "U1") (unit 1) (value "TLV73333PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/9ba26deb-2dd5-446d-bf34-3cafd3f511c3"
-      (reference "U2") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
+      (reference "U2") (unit 1) (value "RP2040") (footprint "RP2040:RP2040-QFN-56")
     )
     (path "/91d5d34b-e030-491a-8afc-6eb190fc6b2f"
       (reference "U3") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
