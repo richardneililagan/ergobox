@@ -1802,10 +1802,10 @@
       (net 27 "Net-(R6-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 1ac106d4-660e-41bf-ab81-09fbd08b016f))
     (pad "2" smd rect (at 4 2.25) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 27 "Net-(R6-Pad1)") (pinfunction "2") (pintype "passive") (tstamp c6ea4402-2a4d-4715-863a-61b6fd645e89))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-100xP.wrl"
+    (model "${KIPRJMOD}/includes/models/b3fs-1000p.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -3981,10 +3981,10 @@
       (net 29 "Net-(SW1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 3486a966-3c60-4a35-876a-ce43064f7f39))
     (pad "2" smd rect (at 4 2.25) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 29 "Net-(SW1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp e3d84827-a88f-4ad6-9869-7bd9d36dbf9c))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-100xP.wrl"
+    (model "${KIPRJMOD}/includes/models/b3fs-1000p.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
