@@ -4150,6 +4150,11 @@
       (net 2 "GND") (pinfunction "SHIELD") (pintype "input") (tstamp 5f576969-603a-4218-ae82-27026abf9119))
     (pad "13" thru_hole oval locked (at -4.32 -2.6 180) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu "B.Mask")
       (net 2 "GND") (pinfunction "SHIELD") (pintype "input") (tstamp b59269f8-430b-4794-8919-9c73f987c297))
+    (model "${KIPRJMOD}/includes/models/HRO_TYPE-C-31-M-12.step"
+      (offset (xyz -4.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_4.3mm_M4" (layer "F.Cu")
