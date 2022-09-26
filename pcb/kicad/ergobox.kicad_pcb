@@ -416,6 +416,16 @@
       (net 40 "BTN_P1") (pinfunction "1") (pintype "passive") (tstamp 91ef876e-4537-4e66-9713-7842f2d37f0a))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 16a45600-01b7-401e-97e6-aa5eeef9ae9e))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "MountingHole:MountingHole_4.3mm_M4" (layer "F.Cu")
@@ -1335,7 +1345,7 @@
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp dc284932-1104-451f-aea0-1aafb800989d))
     (pad "57" thru_hole circle locked (at 1.275 0) (size 0.6 0.6) (drill 0.35) (layers *.Cu)
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp fa66d1ee-612d-4c32-835c-537a9dd5a990))
-    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl"
+    (model "${KIPRJMOD}/includes/models/RP2040_QFN_PACKAGE.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1471,6 +1481,16 @@
       (net 44 "BTN_K1") (pinfunction "1") (pintype "passive") (tstamp 496ffebd-8135-4d44-b166-b970b1600a86))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 40211e47-fe7a-4dd8-8a2e-ee0ecd2507ab))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (layer "F.Cu")
@@ -1665,6 +1685,16 @@
       (net 39 "BTN_DOWN") (pinfunction "1") (pintype "passive") (tstamp d4fc8647-49c7-4522-9749-bcbcbe989f8c))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp ce07c079-22e7-41a4-8d59-fd674d199c14))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -1938,6 +1968,16 @@
       (net 47 "BTN_K4") (pinfunction "1") (pintype "passive") (tstamp 53aba03e-6c90-4c8d-a653-1665702ae1ed))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 9e9e0300-63e2-4012-8729-2023b7e20f64))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
@@ -2264,6 +2304,16 @@
       (net 37 "BTN_RIGHT") (pinfunction "1") (pintype "passive") (tstamp 68bcf0e7-f6e7-4f7c-a876-923c75bccbe0))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 352388f9-559d-4dfe-a3f2-6f3b07218e59))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -2735,6 +2785,16 @@
       (net 43 "BTN_P4") (pinfunction "1") (pintype "passive") (tstamp 772daf00-fb51-4915-9dd4-ea8814bd0aec))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 74a3cc82-9f6e-4bb0-865e-6d1089d317d1))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Keyswitches:Kailh_socket_PG1350" (layer "F.Cu")
@@ -2825,6 +2885,16 @@
       (net 45 "BTN_K2") (pinfunction "1") (pintype "passive") (tstamp f5901e5a-66dc-4b4f-8fb8-10b8fda86225))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp dcd276b3-22d9-4cd3-b423-23eb0fa15e15))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "WS2812C-2020:LED_WS2812C-2020" (layer "F.Cu")
@@ -3039,6 +3109,16 @@
       (net 36 "BTN_UP") (pinfunction "1") (pintype "passive") (tstamp 82900f0a-a6de-4791-90a0-1a59b01c9164))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 74a0c0e1-065f-4889-8afa-8bf1b443b407))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -3254,6 +3334,16 @@
       (net 41 "BTN_P2") (pinfunction "1") (pintype "passive") (tstamp 6bc2b12e-8623-4e49-9dd6-e0ac9724e942))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 1738a4f9-95de-493e-95cd-fe08d62a1033))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -3496,6 +3586,16 @@
       (net 46 "BTN_K3") (pinfunction "1") (pintype "passive") (tstamp f58f98bc-7da0-468c-8c6f-c889cbe7da10))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 072af556-54b2-4c60-b09e-36aaeffcc446))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm" (layer "F.Cu")
@@ -3795,6 +3895,16 @@
       (net 38 "BTN_LEFT") (pinfunction "1") (pintype "passive") (tstamp ce91e3f0-3ff0-4be8-9bf7-1c090c81c960))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp e5034b53-4dea-47e1-8632-f05a6302c541))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Keyswitches:Kailh_socket_PG1350" (layer "F.Cu")
@@ -3885,6 +3995,16 @@
       (net 42 "BTN_P3") (pinfunction "1") (pintype "passive") (tstamp fd7aae61-c5f7-4438-9ed7-c0d0c10538bb))
     (pad "2" smd rect locked (at -8.275 3.75 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp c05687b6-4964-48ac-9402-5c13bde0a08e))
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "${KIPRJMOD}/includes/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -23204,13 +23324,6 @@
     (members
       5a0e4c2d-10c5-4f90-ab9f-0c358c0d6cd0
       9445de90-6127-48f5-bc70-03fff5cd9b83
-    )
-  )
-  (group "" (id 09f55e79-fde3-4cf5-9ff5-aca1c62060cc)
-    (members
-      2d3ef997-4dd7-4751-9657-7ae9a82ba143
-      30a97336-e9b3-42b1-8cb7-43087e69c232
-      45a5e89e-5391-4732-b5e7-a2cd40aa8e00
     )
   )
   (group "" (id 0c8fa2e6-c9cd-4d1a-b85f-e043a9cec04a)
