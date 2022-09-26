@@ -1548,7 +1548,7 @@
       (net 62 "QSPI_SD3") (pinfunction "IO3") (pintype "bidirectional") (tstamp 14f35a47-d3eb-4989-ba8e-f7cc56ac24fb))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 3 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp 07d79e28-bb0c-44ae-892d-8cfbecc39bd1))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
