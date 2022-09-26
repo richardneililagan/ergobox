@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.3,
-          "height": 4.3,
-          "width": 4.3
+          "drill": 0.0,
+          "height": 1.45,
+          "width": 0.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "track_dangling|125460432|37600000|eb5b0f06-d2d3-4ccd-ab2f-07524950c4b5|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -422,7 +424,10 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "dPair",
-        "nets": [],
+        "nets": [
+          "USB_D+",
+          "USB_D-"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
