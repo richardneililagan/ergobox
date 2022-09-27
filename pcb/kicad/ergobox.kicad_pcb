@@ -590,7 +590,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp ca8514b6-1b88-4da4-8a1a-ce791eab48e8))
     (pad "2" thru_hole circle (at 6.5 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp cd72e3b9-c083-451c-ac9b-47041fe6cc77))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -648,7 +648,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 220e431f-0eda-4805-b8c9-101363db2179))
     (pad "2" thru_hole circle (at 6.5 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp db010cb3-d012-4d97-9177-8b8794686116))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1025,7 +1025,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 574da437-7e1e-4f6e-acb5-9624b05fc174))
     (pad "2" thru_hole circle (at 6.5 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 67e70468-9c6b-4230-972e-59d198c68447))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1166,7 +1166,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 3732cf44-0924-4250-b5b5-6619da507b93))
     (pad "2" thru_hole circle (at 6.5 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp dfdd698b-92b2-4f0e-a32b-bc5ddd9f514d))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3650,7 +3650,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 31d88410-e589-4d90-ba7c-6ff07e39c74f))
     (pad "2" thru_hole circle (at 0 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp dc7080d5-1cb2-4734-8411-bcce6c02b1f5))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4371,7 +4371,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp d30f9a86-2037-48d5-860c-cc5aeb54f91b))
     (pad "2" thru_hole circle (at 0 4.5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp eaf95d61-2434-41de-8540-0922f2d89bfa))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
