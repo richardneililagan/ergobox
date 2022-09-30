@@ -75,3 +75,6 @@ out/
 
 # :: PCB STEP export
 pcb/**/ergobox*.step
+
+# :: PCB fabrication output files
+pcb/fabrication
