@@ -4947,7 +4947,7 @@
   (gr_text "ver 0.2.20200930" (at 68.2 172 90) (layer "B.SilkS") (tstamp cbf16652-e94d-47f1-bcfa-91acebcb6f3d)
     (effects (font (size 2 2) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "04  L3\n09  R3\n\n08  START\n05  SELECT\n07  HOME\n06  CAPTURE" (at 102.3 178.6) (layer "B.SilkS") (tstamp fb2d6762-6ec3-4aa6-9444-e2a486d6803d)
+  (gr_text "41  LED\n\n04  L3\n09  R3\n\n08  START\n05  SELECT\n07  HOME\n06  CAPTURE" (at 102.8 175.4) (layer "B.SilkS") (tstamp fb2d6762-6ec3-4aa6-9444-e2a486d6803d)
     (effects (font (size 2 2) (thickness 0.25)) (justify left mirror))
   )
   (gr_text "R3" (at 215.4 70.5) (layer "F.SilkS") (tstamp 2819065e-673d-4c91-aa41-f4954f2d354c)
