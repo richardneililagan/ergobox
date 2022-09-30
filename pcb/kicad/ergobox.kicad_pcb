@@ -2922,6 +2922,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Kailh_Choc_V1.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
@@ -3560,7 +3565,7 @@
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp f6ba3619-77ad-4e61-a5d9-45075759903e))
     (pad "57" thru_hole circle locked (at -1.275 1.275 270) (size 0.6 0.6) (drill 0.35) (layers *.Cu)
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp fc0637e0-6f60-4c83-a3c3-181ce6e859aa))
-    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl"
+    (model "${KIPRJMOD}/includes/models/RP2040_QFN_PACKAGE.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4912,6 +4917,18 @@
     )
   )
 
+  (gr_circle (center 178.66283 146.938858) (end 192.66283 146.938858) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 0ece1f3f-0396-4556-a59e-2ad0c89794d8))
+  (gr_circle (center 278.3 111.3) (end 292.3 111.3) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 1df395c5-1934-4b52-afe1-ddd566ee0842))
+  (gr_circle (center 242.086683 79.784821) (end 256.086683 79.784821) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 1e8026e5-4d80-4ccf-9d0b-b50c3d34825e))
+  (gr_circle (center 144.949119 113.370757) (end 158.949119 113.370757) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 20f6ed6b-2fb0-47f6-a1af-1852d46b31c1))
+  (gr_circle (center 80.3 90.3) (end 94.3 90.3) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 241d9ab8-6375-4037-ad71-1dd67aabfa97))
+  (gr_circle (center 206.873371 87.269642) (end 220.873371 87.269642) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 71123993-3b10-45ad-bcb7-4dc23eaaa0a9))
+  (gr_circle (center 115.6 92.9) (end 129.6 92.9) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 83ae41cd-cf73-48a6-86e8-d0d843f03367))
+  (gr_circle (center 243.244252 118.898885) (end 257.244252 118.898885) (layer "F.SilkS") (width 0.2) (fill none) (tstamp 99cf470c-6f49-4e95-b714-fb5a368b03fa))
+  (gr_circle (center 277.3 72.3) (end 291.3 72.3) (layer "F.SilkS") (width 0.2) (fill none) (tstamp a7491c97-b028-45d6-9619-4f4f715d86ce))
+  (gr_circle (center 177.526054 107.922609) (end 191.526054 107.922609) (layer "F.SilkS") (width 0.2) (fill none) (tstamp b7cc7af9-983a-4c2f-9e33-4070fc4717f7))
+  (gr_circle (center 163.3 179.3) (end 178.3 179.3) (layer "F.SilkS") (width 0.2) (fill none) (tstamp cebcbde0-c7b9-4555-80d4-abc945cca311))
+  (gr_circle (center 208.030937 126.383706) (end 222.030937 126.383706) (layer "F.SilkS") (width 0.2) (fill none) (tstamp f1f15c4a-94c0-4bb8-a9e0-0e93b4f1d676))
   (gr_rect (start 136.8 57.3) (end 171.3 68.8) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp 41e4aaa6-37c4-42e6-80b3-68d8bc0d1d4f))
   (gr_rect (start 187.3 57.3) (end 221.8 68.8) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp ac5acd78-f80b-45f5-9da9-d3f9728d83a9))
   (gr_arc locked (start 290.8 53.3) (mid 295.396194 55.203806) (end 297.3 59.8) (layer "Edge.Cuts") (width 0.1) (tstamp 38076718-083f-47fe-9214-16773d75d7d0))
