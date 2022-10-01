@@ -462,7 +462,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "ergobox.step",
+      "step": "../../enclosure/assets/pcb.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
