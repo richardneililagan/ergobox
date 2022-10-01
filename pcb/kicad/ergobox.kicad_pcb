@@ -172,11 +172,12 @@
     (at 177.526054 107.922609)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/f782518d-1e58-45b8-86df-64b2f301f57b")
     (attr smd)
-    (fp_text reference "SW13" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW5" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 451b0172-4759-491b-a1d3-c0a6a909f6aa)
     )
@@ -461,11 +462,12 @@
     (at 206.873371 87.269642)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/53fbce93-16c6-4ed7-9a04-6a5f272cab51")
     (attr smd)
-    (fp_text reference "SW14" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW6" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7ce00c7c-1b63-4caa-af3b-c7d29944f26b)
     )
@@ -684,11 +686,12 @@
     (at 144.949119 113.370757)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "true")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/6ffa2bda-adb8-4b45-b2f3-66d14af70739")
     (attr smd)
-    (fp_text reference "SW10" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW2" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 68740656-aef1-48f3-8714-e2e9b12763de)
     )
@@ -888,11 +891,12 @@
     (at 178.66283 146.938858)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/19b0ce15-4c08-412b-87c9-e357c06d1577")
     (attr smd)
-    (fp_text reference "SW17" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW9" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 292909e2-5798-489f-97ef-577216749625)
     )
@@ -1033,11 +1037,12 @@
     (at 80.3 90.3)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/0d5161b8-5c58-4924-99b4-8ca9b7edfc0a")
     (attr smd)
-    (fp_text reference "SW11" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW3" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 805cd60b-0bbe-42fa-8012-47eac87327b0)
     )
@@ -1178,11 +1183,12 @@
     (at 243.244252 118.898885)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/b30149f7-7340-4a08-a501-4fd458ccf120")
     (attr smd)
-    (fp_text reference "SW19" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW11" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5a2e487d-cd70-4771-a586-3f642c62d773)
     )
@@ -1602,11 +1608,12 @@
     (at 278.3 111.3)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/677ff06d-f79f-4636-ba21-beec29f993c2")
     (attr smd)
-    (fp_text reference "SW20" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW12" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5471bae7-bbf9-48a3-a09a-d3b83c132bc7)
     )
@@ -1789,11 +1796,12 @@
     (at 163.3 179.3)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "true")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/e7e50001-1420-4b1c-9a9c-244be6cee891")
     (attr smd)
-    (fp_text reference "SW9" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW1" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1d004367-946f-4f9f-b9e7-1378fcaa3a80)
     )
@@ -2086,11 +2094,12 @@
     (at 115.6 92.9)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/4a2c44e2-5354-4d12-93e7-55de66eaf6db")
     (attr smd)
-    (fp_text reference "SW12" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW4" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 04897f43-02de-45a3-b493-19ed21a57655)
     )
@@ -2231,11 +2240,12 @@
     (at 208.030937 126.383706)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/bf14133a-e3dd-4876-94ab-bfabcac675ee")
     (attr smd)
-    (fp_text reference "SW18" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW10" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 63770bd6-c0ee-40e0-bc4c-732f3a768e77)
     )
@@ -2376,11 +2386,12 @@
     (at 277.3 72.3)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/2d890ef2-4562-41a2-a026-1abb741422ac")
     (attr smd)
-    (fp_text reference "SW16" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW8" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f3ad6e6b-3773-45d8-aac1-c2931b8d151a)
     )
@@ -2807,11 +2818,12 @@
     (at 242.086683 79.784821)
     (descr "Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap")
     (tags "Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout")
+    (property "JLCPCB_IGNORE" "")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
     (path "/d72db84b-8b36-4381-8bae-7e7b8e71a550")
     (attr smd)
-    (fp_text reference "SW15" (at 0 -9) (layer "F.SilkS") hide
+    (fp_text reference "KSW7" (at 0 -9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 68408f65-7d3f-4108-9c73-305d19776893)
     )
@@ -4423,6 +4435,7 @@
     (at 117.4 64 45)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "JLCPCB_CORRECTION" "0;0;90")
     (property "LCSC" "C1525")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
@@ -4466,6 +4479,7 @@
     (at 123.9 68.7)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
+    (property "JLCPCB_CORRECTION" "0;0;180")
     (property "LCSC" "C9002")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
@@ -4815,6 +4829,7 @@
     (at 106.2 61.3 -90)
     (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
+    (property "JLCPCB_CORRECTION" "0;0;-90")
     (property "LCSC" "C97521")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")
@@ -4876,6 +4891,7 @@
   (footprint "USB-C:HRO-TYPE-C-31-M-12" locked (layer "B.Cu")
     (tedit 5C42C658) (tstamp e67c72a6-9224-4262-b088-b3e79b5b6994)
     (at 91.8 53.315)
+    (property "JLCPCB_CORRECTION" "0;5.25;180")
     (property "LCSC" "C165948")
     (property "Sheetfile" "ergobox.kicad_sch")
     (property "Sheetname" "")

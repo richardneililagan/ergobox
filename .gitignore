@@ -78,3 +78,6 @@ pcb/**/ergobox*.step
 
 # :: PCB fabrication output files
 pcb/fabrication
+
+dist
+release
